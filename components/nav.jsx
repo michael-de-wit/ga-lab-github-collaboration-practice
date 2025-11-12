@@ -16,7 +16,7 @@ const Navbar = ()=> {
                 </nav>
             </div>
 
-
+<span>text</span>
 
 
 </div>
